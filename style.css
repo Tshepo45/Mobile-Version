@@ -4,14 +4,6 @@
   margin: 26px 24px;
 }
 
-* { 
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-  text-decoration: none;
-  list-style: none;
-}
-
 .header-section > .header-nav {
   display: flex;
   justify-content: space-between;
@@ -135,4 +127,12 @@
   top: 60px;
   background: blue;
   transform: rotate(-156.88deg);
+}
+
+* { 
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
 }
