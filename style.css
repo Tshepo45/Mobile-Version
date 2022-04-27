@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
-
-*{ 
+* { 
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -39,10 +38,6 @@
   border-bottom-left-radius: 20px;
 }
 
-.menu-section > div > .p-text {
-  margin-top: 10px;
-}
-
 .menu-section > div {
   width: 100%;
   padding: 0 24px;
@@ -51,10 +46,10 @@
   gap: 12px;
 }
 
-.menu-section > div > heading-title {
+.menu-section > div > .heading-title {
   font: normal normal 700 40px 'Poppins', sans-serif;
   line-height: 52px;
-  margin-top: 205px;
+  margin-top: 45px;
   color: #172b4d;
 }
 
