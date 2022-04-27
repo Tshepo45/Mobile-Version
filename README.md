@@ -14,7 +14,6 @@ project to your local environment and clone it as follows git clone https://gith
 
 Install
 run git installation commands.
-run linters scripts
 
 Authors
 
