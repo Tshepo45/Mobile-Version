@@ -1,7 +1,7 @@
 {
   "name": "mobile-version",
   "version": "1.0.0",
-  "description": "",
+  "description": "Mobile Version Skeleton Portifolio",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -25,24 +25,3 @@
     "stylelint-scss": "^3.21.0"
   }
 }
-
-{
-  "connector": {
-    "name": "local",
-    "options": {
-      "pattern": ["**", "!.git/**", "!node_modules/**"]
-    }
-  },
-  "extends": ["development"],
-  "formatters": ["stylish"],
-  "hints": [
-    "button-type",
-    "disown-opener",
-    "html-checker",
-    "meta-charset-utf-8",
-    "meta-viewport",
-    "no-inline-styles:error"
-  ]
-}
-
-
