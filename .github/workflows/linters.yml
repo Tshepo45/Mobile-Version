@@ -47,8 +47,3 @@ jobs:
       - name: Stylelint Report
         run: npx stylelint "**/*.{css,scss}"
 
-{ "rules": {
-  "no-eol-whitespace": [ true, {
-    "ignore": "blank-lines"
-  } ]
-} }
