@@ -11,7 +11,7 @@
 .background-image {
   background-image: url(/Mobile-Version/image/background-img.png);
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: 100%;
 }
 
 .menu-section > div {
