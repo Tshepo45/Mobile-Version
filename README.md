@@ -8,6 +8,7 @@ html
 css
 Git 
 Github
+VS Studio Code
 
 Setup
 project to your local environment and clone it as follows git clone https://github.com/Tshepo45/Mobile-Skeleton-Portfolio.git
