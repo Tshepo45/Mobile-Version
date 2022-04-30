@@ -1,6 +1,6 @@
 Mobile Version Skeleton Portifolio
 
-First mobile version portfolio project created with html templates and styling to built a responsive mobile version.
+Second mobile version portfolio project created with html templates and styling to built a responsive mobile version.
 
 Built With
 
