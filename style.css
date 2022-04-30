@@ -109,7 +109,7 @@
   margin-top: 0;
 }
 
-.project-description {
+.P-description {
   display: flex;
   gap: 5px;
   justify-content: space-between;
@@ -121,7 +121,7 @@
   font-weight: 500;
 }
 
-.project-description > .project1-text {
+.P-description > .project1-text {
   position: static;
   width: 55px;
   height: 16px;
@@ -135,7 +135,7 @@
   color: #344563;
 }
 
-.project-description > .Project1-text2 {
+.P-description > .Project1-text2 {
   position: static;
   width: 99px;
   height: 16px;
@@ -149,7 +149,7 @@
   color: #7a869a;
 }
 
-.project-description > .Project1-text3 {
+.P-description > .Project1-text3 {
   position: static;
   width: 29px;
   height: 16px;
