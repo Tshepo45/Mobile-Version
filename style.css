@@ -91,7 +91,7 @@
   width: 100%;
 }
 
-.Project-one-header {
+.Project-header {
   margin: 0 16px;
   display: flex;
   flex-direction: column;
@@ -99,7 +99,7 @@
   gap: 20px;
 }
 
-.Project-one-header > h4 {
+.Project-header > h4 {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -383,7 +383,6 @@
   font: normal normal 500 20px 'Poppins', sans-serif;
 }
 
-/* contact-me section */
 .contact-me {
   display: flex;
   flex-direction: column;
